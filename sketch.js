@@ -49,7 +49,7 @@ function draw() {
     log1.display();
     
     box3.display();
-    box4.display();
+    box4.display(); 
     pig2.display();
     log2.display();
 
